@@ -1,5 +1,4 @@
-1. DARK/LIGHT MODE TOGGLE FOR WIX STUDIO
-I created this code to switch between dark and light mode on my portfolio website
+1. DARK/LIGHT MODE TOGGLE FOR WIX STUDIO: I created this code to switch between dark and light mode on my portfolio website
 
 Set up:
 For each section of your page, create two versions: dark and light mode. Make sure you ID each version clearly
