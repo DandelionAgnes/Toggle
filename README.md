@@ -1,4 +1,4 @@
-Dark/Light Mode Toggle
+1. DARK/LIGHT MODE TOGGLE FOR WIX STUDIO
 I created this code to switch between dark and light mode on my portfolio website
 
 Set up:
